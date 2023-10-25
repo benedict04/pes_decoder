@@ -35,9 +35,7 @@ Yosys can be adapted to perform any synthesis job by combining the existing pass
 2. Open terminal and go to the directory where yosys.sh is present
 3. run the commands `chmod +x yosys.sh` `./yosys.sh`
 ### Steps to Synthesis
-- Go to pes_brg directory
-- once you get to pes_brg directory, Invoke yosys by using the command yosys
-- once yosys is invoked follow the above sequence of commands
+
   ``` sh
   read_liberty -lib lib/sky130_fd_sc_hd__tt_025C_1v80.lib  
   read_verilog pes_decoder.v
