@@ -1,5 +1,20 @@
 # pes_decoder
 
+# TABLE OF CONTENTS
+- [Introduction](#introduction)
+- [Working](#working)
+- [Functional Simulation](#functional-simulation)
+- [Synthesis](#synthesis)
+- [Gate Level Simulation](#gate-level-simulation)
+- [Physical Design](#physical-design)
+
+### Installing Software 
+```
+sudo apt-get install git 
+sudo apt-get install iverilog 
+sudo apt-get install gtkwave 
+```
+
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/55304e6e-f590-4554-8a58-756b9618d1c4)
 
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/ad927cc4-4025-417b-8f79-87e99806686f)
