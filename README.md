@@ -62,9 +62,9 @@ GLS stands for Gate level Simulation. when we make an RTL design we test it with
 
 
 ```
-iverilog iiitb_brg/Verilog_Model/primitives.v iiitb_brg/Verilog_Model/sky130_fd_sc_hd.v pes_brg_net.v pes_brg_tb.v
+iverilog ../my_lib/verilog_Model/primitives.v ../my_lib/verilog_Model/sky130_fd_sc_hd.v pes_decoder_net.v pes_decoder_tb.v
 ./a.out
-gtkwave iiitb_brg_out.vcd
+gtkwave dec.vcd
 ```
 
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/d6a00e80-dcc0-4034-94d6-5d1561ff5da0)
