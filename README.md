@@ -52,6 +52,16 @@ Yosys can be adapted to perform any synthesis job by combining the existing pass
 
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/e83bdaf4-3667-4af9-a3af-4c00f49a5ff9)
 
+## Gate Level Simulation
+GLS stands for Gate level Simulation. when we make an RTL design we test it with the help of test bench, which applies some stimulus. The output of that stimulus is checked for the desired functionality. After synthesis we need to again check if the functionality is maintained, for that we perform the GLS. We put the netlist under test and use the same test bench that we did for RTL design to check the functionality. GLS also ensures the timing of the design.
+
+
+```
+iverilog iiitb_brg/Verilog_Model/primitives.v iiitb_brg/Verilog_Model/sky130_fd_sc_hd.v pes_brg_net.v pes_brg_tb.v
+./a.out
+gtkwave iiitb_brg_out.vcd
+```
+
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/5da45068-84f6-4d2a-8387-216170d2e71e)
 
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/d6a00e80-dcc0-4034-94d6-5d1561ff5da0)
