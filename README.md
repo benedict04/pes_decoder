@@ -1,12 +1,11 @@
 # pes_decoder
 
 # TABLE OF CONTENTS
-- [Introduction](#introduction)
-- [Working](#working)
+- [Installing Software](#installing-software)
 - [Functional Simulation](#functional-simulation)
 - [Synthesis](#synthesis)
 - [Gate Level Simulation](#gate-level-simulation)
-- [Physical Design](#physical-design)
+  
 
 ### Installing Software 
 ```
