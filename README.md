@@ -67,3 +67,6 @@ gtkwave dec.vcd
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/d6a00e80-dcc0-4034-94d6-5d1561ff5da0)
 
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/ca8e2c51-e1cf-4e8e-941c-7304c45f460a)
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/58917a50-802c-4e08-b651-567bee5e2bd1)
+
