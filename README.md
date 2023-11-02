@@ -117,5 +117,13 @@ In order to overcome succesfull placement we need to configure our own values fo
 Now we go into the OpenLane folder and run the following command to automate the whole ASIC flow.
 ```
 sudo make mount
-./flow.tcl -design openlane/pes_brg -tag RUN
+./flow.tcl -design openlane/pes_decoder -tag RUN
 ```
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/2cb17fd0-c2f7-4e1d-91d2-3e46b5c3fc34)
+
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/8253887a-a4f1-4267-a6ba-b41f5e617a1c)
+
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/f9715ee8-aa0a-45d1-b1f4-b4b3162ca60f)
