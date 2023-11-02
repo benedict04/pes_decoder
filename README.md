@@ -127,3 +127,16 @@ sudo make mount
 
 
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/f9715ee8-aa0a-45d1-b1f4-b4b3162ca60f)
+
+
+## Interactive flow
+
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/84875a8c-e739-4780-bb9e-8702affa73bc)
+
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/2b480fe3-a515-4073-bd94-34d341dd6e3b)
+
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/de7b59c2-2f97-4caa-a651-d07cf046b978)
+
