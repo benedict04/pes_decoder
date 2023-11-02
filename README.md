@@ -140,3 +140,6 @@ sudo make mount
 
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/de7b59c2-2f97-4caa-a651-d07cf046b978)
 
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/942d95b4-3156-4efa-bd09-7a7ce889c89f)
+
