@@ -147,6 +147,15 @@ sudo make mount
 
 ### Floorplan 
 
+Go to respective run folder path and put following command to open floorplan in magic
+
+```
+magic -T /home/hardhik/.volare/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.nom.lef def read pes_decoder.def
+
+```
+
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/c396a2d6-558b-4c94-88dd-fdbafdba6621)
 
 
 
@@ -154,10 +163,36 @@ sudo make mount
 
 ### Placement
 
+Go to respective run folder path and put following command to open floorplan in magic
+
+```
+magic -T /home/hardhik/.volare/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.nom.lef def read pes_decoder.def
+
+```
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/6bbfe6d9-cdfd-4542-ad16-a0ad8027396e)
 
 
 
+## Installation of klayout
+
+KLayout is a free and powerful CAD software developed for chip design engineers. It is intuitive, fast, accurate and extensible via an integrated development environment (Ruby and Python). User created extensions can be shared through an integrated package manager. For installing klayout put the followinf commands in terminal
+
+```
+sudo apt update
+sudo apt install klayout
+
+```
 ## FINAL GDS
+
+To open GDSII in klayout:
+
+```
+cd OpenLane
+make mount
+klayout -e -nn /home/hardhik/.volare/sky130A/libs.tech/klayout/tech/sky130A.lyt    -l $PDK_ROOT/sky130A/libs.tech/klayout/tech/sky130A.lyp ./openlane/pes_decoder/runs/RUN12/results/final/gds/pes_decoder.gds
+
+```
 
 
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/ba32fb74-635a-4261-9feb-4fa7f1113bd0)
