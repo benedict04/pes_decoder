@@ -160,6 +160,7 @@ sudo make mount
 ## FINAL GDS
 
 
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/ba32fb74-635a-4261-9feb-4fa7f1113bd0)
 
 
 
