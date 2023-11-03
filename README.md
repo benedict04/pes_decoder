@@ -142,17 +142,27 @@ sudo make mount
 
 
 
-
-![image](https://github.com/benedict04/pes_decoder/assets/109859485/81ac0e8e-d310-4963-83c8-2c529dc34726)
-
-
-
-![image](https://github.com/benedict04/pes_decoder/assets/109859485/0f6f480a-3e76-4012-8690-8b915f7354de)
-
-
-![image](https://github.com/benedict04/pes_decoder/assets/109859485/027a83e1-5f02-4652-9cbd-34de1ec31ee1)
-
-
-
 ![image](https://github.com/benedict04/pes_decoder/assets/109859485/942d95b4-3156-4efa-bd09-7a7ce889c89f)
+
+
+### Floorplan 
+
+
+
+
+
+
+### Placement
+
+
+
+
+## FINAL GDS
+
+
+
+
+
+
+
 
