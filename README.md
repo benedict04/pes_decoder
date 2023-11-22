@@ -183,6 +183,36 @@ sudo apt update
 sudo apt install klayout
 
 ```
+
+## RESULTS
+
+### Power Consumption
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/81c1df5a-01db-4f81-bf55-2296fd747f32)
+
+
+### Area
+
+#### core area 
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/a2f9f963-9246-42c6-839c-f970eea0c612)
+
+#### die area
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/c9e684c1-49c7-4df9-acae-c839915564a5)
+
+
+#### Complete area report
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/c2e58135-1d08-4b76-8016-e636a709ece2)
+
+
+### slack
+
+![image](https://github.com/benedict04/pes_decoder/assets/109859485/90e339b8-80c3-4698-9299-0339bb0ab488)
+
+
+
 ## FINAL GDS
 
 To open GDSII in klayout:
